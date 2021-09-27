@@ -1,4 +1,5 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋 
+### My name is Rohith and I'm a senior studying CS @ UIC. I'm looking for full-time Software Engineering opportunities starting in May 2022 and I'd love to set up a chat. Please feel free to reach out to me using your preferred mode of communication (linked in Github profile)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith-Rajan&show_icons=true&theme=midnight-purple)
 
