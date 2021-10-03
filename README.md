@@ -3,7 +3,7 @@
 
 My name is Rohith and I'm a senior studying CS @ UIC. <br>
 
-I'm looking for full-time Software Engineering opportunities starting in May 2022 and I'd love to set up a chat. Please feel free to reach out to me using your preferred mode of communication (information linked in Github profile ;] )
+I'm looking for full-time Software Engineering opportunities starting in May 2022 and I'd love to set up a chat. Please feel free to reach out to me via your preferred mode of communication (information linked in Github profile ;] )
 
 ---
 
