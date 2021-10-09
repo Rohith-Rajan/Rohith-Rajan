@@ -7,9 +7,12 @@ I'm looking for full-time Software Engineering opportunities starting in May 202
 
 ---
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith-Rajan&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Rajan&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohith-Rajan&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
